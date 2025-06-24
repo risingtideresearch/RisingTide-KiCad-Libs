@@ -12,7 +12,7 @@ These libraries were created in KiCad 9.0 and, as such, may not be compatible wi
 #### Naming
 Symbols are generally named as follows: `{Device Type} {Mfr Part#} {Top line specs}` but there are exceptions based on the part type and relevant specs.
 
-In the case of common components such as passives, no datasheets are part numbers are specified as these parts are completely fungible so long as they are within spec. 
+In the case of common components such as passives, no datasheets or part numbers are specified as these parts are completely fungible so long as they are within spec. 
 - A typical capacitor may be named `0.1uF 0402 16V 10%` with the voltage and tolerance specified. 
 - A resistor may be named `4.7K 0402`. No power rating is specified as this will trend with value and package size. If a particular tolerance or power rating is required by a design, it should be noted on the relevant instance of the symbol.     
 - A diode may be named `D Schottky 0.5A/20V/0.47V` with the top line specs `IMax/VMax/Vdrop`. Diodes are prefixed with "D" to differentiate them from other parts because they share a library with other discrete semiconductors.
