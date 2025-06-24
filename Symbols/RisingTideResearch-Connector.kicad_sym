@@ -6450,7 +6450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Logging_Bridge_Lib:TerminalBlock_DoraboDBT10_8.5mm"
+		(property "Footprint" "RisingTideResearch-Connector:TerminalBlock_DoraboDBT10_8.5mm"
 			(at 0 -9.652 0)
 			(effects
 				(font
@@ -12709,7 +12709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAN-Power-Lib:Molex 0389690003"
+		(property "Footprint" "RisingTideResearch-Connector:TerminalBlock_Molex_0389690003"
 			(at 0 -7.62 0)
 			(effects
 				(font
