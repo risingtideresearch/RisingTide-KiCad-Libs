@@ -26,7 +26,13 @@ Symbol bodies are drawn with a line weight of 0.254mm in KiCad's default symbol 
 
 Pins have a length of 2.54 with a text size of 1.27. 
 
-Pins should be grouped in whatever way makes layout of the part most readable. In some cases this means grouping pins by function, in others it may mean grouping pins by physical layout. There is no obligation for a symbol to represent its associated footprint, readability of the schematic is paramount. As a rule of thumb, GND, VSS, AGND, etc. should be located near the bottom of the symbol so that ground symbols can be oriented downward while crossing the least number of signals. Similarly, VCC, VIO, etc. as well as pins that are likely to be pulled up to them such as RST, EN, etc. should be located near the top of the symbol. Wherever two parts have complementary pins (RX/TX, CANH/CANL, USB+/USB-) it is acceptable to position the pins on both symbols to avoid having to cross the pair. By default, part prefixes are placed above the top left corner of the symbol and part values are placed below the bottom left corner This is arbitrary as these can be moved after placement on the schematic. 
+Pins should be grouped in whatever way makes layout of the part most readable. In some cases this means grouping pins by function, in others it may mean grouping pins by physical layout. There is no obligation for a symbol to represent its associated footprint, readability of the schematic is paramount. 
+
+As a rule of thumb, GND, VSS, AGND, etc. should be located near the bottom of the symbol so that ground symbols can be oriented downward while crossing the least number of signals. Similarly, VCC, VIO, etc. as well as pins that are likely to be pulled up to them such as RST, EN, etc. should be located near the top of the symbol. 
+
+Wherever two parts have complementary pins (RX/TX, CANH/CANL, USB+/USB-) it is acceptable to position the pins on both symbols to avoid having to cross the pair. 
+
+By default, part prefixes are placed above the top left corner of the symbol and part values are placed below the bottom left corner This is arbitrary as these can be moved after placement on the schematic. 
 
 ### Footprints
 
