@@ -1977,6 +1977,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5165843"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "connector"
 			(at 0 0 0)
 			(effects

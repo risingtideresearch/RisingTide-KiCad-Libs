@@ -52,6 +52,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2654898"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF hall effect current monitor sensor isolated"
 			(at 0 0 0)
 			(effects

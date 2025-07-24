@@ -83,6 +83,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C535929"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF diode"
 			(at 0 0 0)
 			(effects
@@ -28149,6 +28158,15 @@
 		)
 		(property "VMax" "100V"
 			(at 0 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C154914"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
