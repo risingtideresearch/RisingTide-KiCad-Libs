@@ -56,6 +56,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25168846"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF Momentary push switch lever button"
 			(at 0 0 0)
 			(effects

@@ -64,6 +64,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C160975"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF inductor choke coil reactor magnetic"
 			(at 0 0 0)
 			(effects

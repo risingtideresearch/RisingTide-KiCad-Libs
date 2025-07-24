@@ -36299,6 +36299,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C2886028"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF diode Schottky CDBU0520"
 			(at 0 0 0)
 			(effects
@@ -36471,6 +36480,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C5355496"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(property "ki_keywords" "RisingTide RTRF diode Schottky BAT60"
@@ -36647,6 +36665,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C174040"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF Diode Schottky Rectifier"
 			(at 0 0 0)
 			(effects
@@ -36788,6 +36815,15 @@
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 4 data-line, SOT-23-6"
 			(at 0 -17.526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2844726"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41044,6 +41080,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C6142491"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(property "ki_keywords" "RisingTide RTRF diode"
@@ -74209,6 +74254,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15127"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "P-Channel MOSFET"
 			(at 0 0 0)
 			(effects
@@ -79486,6 +79540,15 @@
 		)
 		(property "Description" "Diodes Inc FMMT625TA NPN Bipolar Transistor, 1 A, 150 V, 3-Pin SOT-23"
 			(at 0 -15.494 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C212600"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90442,6 +90505,15 @@
 		)
 		(property "Description" "Automotive 24-V, 2-Channel ESD Protection Diode for In-Vehicle Networks"
 			(at 0 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7469913"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

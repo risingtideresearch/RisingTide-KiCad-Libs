@@ -55,6 +55,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22843"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -185,6 +194,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -329,6 +347,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -459,6 +486,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C11702"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -603,6 +639,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C21190"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -733,6 +778,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2889400"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -877,6 +931,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25879"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -1007,6 +1070,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22940"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1151,6 +1223,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8218"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -1281,6 +1362,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17949"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1425,6 +1515,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23138"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -1555,6 +1654,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1699,6 +1807,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25117"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -1829,6 +1946,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23179"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1973,6 +2099,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25905"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -2110,6 +2245,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23186"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF R res resistor"
 			(at 0 0 0)
 			(effects
@@ -2155,6 +2299,152 @@
 			)
 		)
 		(symbol "5.1K 0603_1_1"
+			(pin passive line
+				(at -2.54 0 0)
+				(length 1.016)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 2.54 0 180)
+				(length 1.016)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "60.4R 0402"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "60.4"
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "RisingTideResearch-Resistor:R_0402_1005Metric"
+			(at 0 -4.572 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -1.27 -8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C60310"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "RisingTide RTRF R res resistor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "60.4R 0402_0_1"
+			(polyline
+				(pts
+					(xy -1.524 0) (xy -1.143 1.016) (xy -0.762 0) (xy -0.381 -1.016) (xy 0 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 0) (xy 0.381 1.016) (xy 0.762 0) (xy 1.143 -1.016) (xy 1.524 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "60.4R 0402_1_1"
 			(pin passive line
 				(at -2.54 0 0)
 				(length 1.016)

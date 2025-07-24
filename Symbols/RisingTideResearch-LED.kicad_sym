@@ -65,6 +65,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C84266"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF LED diode"
 			(at 0 0 0)
 			(effects
@@ -241,6 +250,15 @@
 		)
 		(property "Vf" "2.5V~3V"
 			(at 0 -4.572 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2994781"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -431,6 +449,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2286"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF LED diode"
 			(at 0 0 0)
 			(effects
@@ -614,6 +641,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2290"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF LED diode"
 			(at 0 0 0)
 			(effects
@@ -790,6 +826,15 @@
 		)
 		(property "Vf" "2.1V~2.2V"
 			(at 0 -4.572 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C72038"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -31930,6 +31930,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23380830"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF linear regulator ldo fixed positive"
 			(at 0 0 0)
 			(effects
@@ -44621,6 +44630,15 @@
 		)
 		(property "Description" "3A 27V Linear Regulator, Fixed Output 3.3V, TO-220/TO-263"
 			(at 0 -23.876 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C19545"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71177,6 +71195,15 @@
 		)
 		(property "Description" "3A 25V Linear Regulator, Fixed Output 5.0V, TO-220/TO-263"
 			(at 0 -21.082 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C129950"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -51,6 +51,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2652313"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF SMBUS I2C Expander Mux"
 			(at 0 0 0)
 			(effects
@@ -20977,6 +20986,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2938669"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF NPN DC opto"
 			(at 0 0 0)
 			(effects
@@ -27827,6 +27845,15 @@
 		)
 		(property "Description" "Realtime Clock/Calendar I2C Interface, Extreme Low Power, 1.1 V to 5.5 V, MicroCrystal C7"
 			(at 0 -14.732 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3019759"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

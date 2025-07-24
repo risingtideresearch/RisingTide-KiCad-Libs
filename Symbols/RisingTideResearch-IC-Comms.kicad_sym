@@ -52,6 +52,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C12368"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RisingTide RTRF CAN Controller SPI"
 			(at 0 0 0)
 			(effects
@@ -16366,6 +16375,15 @@
 		)
 		(property "Description" "Isolated CAN FD Transceiver, Integrated DC-DC Converter, 5Mbps, Reinforced Isolation,  SOIC-20W"
 			(at 0 -27.178 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3234830"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66082,6 +66100,15 @@
 		)
 		(property "Description" "High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +125C, SOIC-8"
 			(at 0 -18.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C53609"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -15,7 +15,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESP32-S3-WROOM"
+		(property "Value" "ESP32-S3-WROOM-1U-N16R2"
 			(at 0.762 -40.894 0)
 			(effects
 				(font
@@ -43,6 +43,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3013945"
 			(at 0 0 0)
 			(effects
 				(font
